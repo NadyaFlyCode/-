@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>e11c5130-57e0-47ca-9b61-35ed40fc5588</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.t-link-inline > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d764ce4d-cee9-45d2-a73c-b4681a9f9bea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Войти</value>
+      <webElementGuid>afe295b1-2bc4-4571-bf25-49758fec3133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app app--content-feed app--left-column-on app--right-column-on app--propaganda-on app--livestream-on app--content-sidebar-align-right app--right-column-reserve-off app--live-auto app--ad-allowed os--non_ios&quot;]/div[@class=&quot;v-popup-container&quot;]/div[@class=&quot;v-popup-overlay v-popup-overlay--center v-popup-overlay__mobile-fullscreen&quot;]/div[@class=&quot;v-popup-window v-popup-window--center v-popup-window--white v-popup-window--mobile-fullscreen v-popup-window--with-cover&quot;]/div[@class=&quot;v-popup-window__content&quot;]/div[@class=&quot;auth&quot;]/div[@class=&quot;auth-social auth__view v-form&quot;]/div[@class=&quot;v-form__footer&quot;]/span[1]/button[@class=&quot;t-link-inline&quot;]/span[1]</value>
+      <webElementGuid>ed547e73-bcc7-492c-a620-4dc1f9e76657</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button/span</value>
+      <webElementGuid>c2bf13ed-37e5-47ba-8818-780b5ac575f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Войти' or . = 'Войти')]</value>
+      <webElementGuid>5f9fe9aa-14c2-4833-acf4-05d250e936e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

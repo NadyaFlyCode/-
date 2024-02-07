@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__1_2</name>
+   <tag></tag>
+   <elementGuidId>8cfc33eb-4a0a-4294-b15c-9573444cffec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>&#xd;
+/html/body/div[14]/div/div/div[2]/div[2]/div[3]/div[2]/button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.submit-button.form-item.v-button.v-button--blue.v-button--size-default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>22dffb10-29be-4284-8e87-8da3776ac19f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-layout-mobile</name>
+      <type>Main</type>
+      <value>icon,label</value>
+      <webElementGuid>6a6e07cb-e8bf-46cb-a69d-5e76178532ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-layout-desktop</name>
+      <type>Main</type>
+      <value>icon,label</value>
+      <webElementGuid>79bfba78-09df-424b-816d-9b67a1de400d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submit-button form-item v-button v-button--blue v-button--size-default</value>
+      <webElementGuid>1336e9ec-a5e1-487a-b865-e48fd83f4379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gtm</name>
+      <type>Main</type>
+      <value>Login Mail — Login — Click</value>
+      <webElementGuid>32bcf941-1a4a-4ed7-89c3-d6fd568a4223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+    Войти
+  </value>
+      <webElementGuid>d4ede200-a436-45bb-87de-3d751ea4a90e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app app--content-feed app--left-column-on app--right-column-on app--propaganda-on app--livestream-on app--content-sidebar-align-right app--right-column-reserve-off app--live-auto app--ad-allowed os--non_ios&quot;]/div[@class=&quot;v-popup-container&quot;]/div[@class=&quot;v-popup-overlay v-popup-overlay--center v-popup-overlay__mobile-fullscreen&quot;]/div[@class=&quot;v-popup-window v-popup-window--center v-popup-window--white v-popup-window--mobile-fullscreen v-popup-window--with-cover&quot;]/div[@class=&quot;v-popup-window__content&quot;]/div[@class=&quot;auth&quot;]/div[@class=&quot;auth-form auth__view v-form auth-form--email-login&quot;]/div[@class=&quot;v-form__content&quot;]/button[@class=&quot;submit-button form-item v-button v-button--blue v-button--size-default&quot;]</value>
+      <webElementGuid>36ac4156-bd81-48fe-9211-1dd451e48b4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/button</value>
+      <webElementGuid>347c53fd-5ef4-4064-8b8b-bf58b61978ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' 
+    Войти
+  ' or . = ' 
+    Войти
+  ')]</value>
+      <webElementGuid>6f8acef5-d752-4884-86a7-5d7e302c58e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
